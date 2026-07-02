@@ -1,2 +1,1 @@
-# wordpress_ipgate
-WordPress IP Gate
+# WordPress IP Gate
